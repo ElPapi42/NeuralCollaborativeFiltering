@@ -10,4 +10,6 @@ The rest of the relevant experiemnts can be seen here: https://app.wandb.ai/elpa
 References:
 F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4, Article 19 (December 2015), 19 pages. DOI=<http://dx.doi.org/10.1145/2827872>
 
+During The Experiments i was using Weights and Biases Service for monitoring my model training in real time, i recommend you this service for help in your projects, take decisions smartly and much more: https://www.wandb.com/
+
 Exploratory Data Analysis, Model Definition, Training and Fine-Tunning described step by step on this Notebook
